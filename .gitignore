@@ -3,4 +3,11 @@
 
 # 테스트용 코드, 실행파일
 a.cpp
+a.cxx
+a.cc
+a.C
+
+*.exe
+*.out
+*.o
 a
