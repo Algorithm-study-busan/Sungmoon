@@ -11,3 +11,12 @@ a.C
 *.out
 *.o
 a
+
+# 디버깅 심볼
+*.dSYM
+
+# VSC 설정
+.vscode
+
+# jsons
+*.json
