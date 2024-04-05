@@ -1,1 +1,22 @@
+# macOS에서 Finder의 view 옵션을 저장하는 파일
 *.DS_Store
+
+# 테스트용 코드, 실행파일
+a.cpp
+a.cxx
+a.cc
+a.C
+
+*.exe
+*.out
+*.o
+a
+
+# 디버깅 심볼
+*.dSYM
+
+# VSC 설정
+.vscode
+
+# jsons
+*.json
