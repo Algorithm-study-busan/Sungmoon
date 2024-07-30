@@ -26,7 +26,7 @@ public:
     }
     return ans;
   }
-};
+}; 
 
 /* 완탐
 
