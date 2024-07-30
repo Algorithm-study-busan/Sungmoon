@@ -36,4 +36,4 @@ public:
     ret.push_back(ub-1);
     return ret;
   }
-};
+}; 
